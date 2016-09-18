@@ -24,9 +24,7 @@ public enum Cell {
         }
         return cellRepresentedBySymbol;
     }
-    public String getSybmolo(){
-        return "";
-    }
+    public 
     public String getSymbol() {
         return symbol;
     }
