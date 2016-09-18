@@ -24,8 +24,12 @@ public enum Cell {
         }
         return cellRepresentedBySymbol;
     }
-
+    
     public String getSymbol() {
         return symbol;
     }
+    public String getSymbol0() {
+        return symbol
+    }
+    
 }
