@@ -30,7 +30,7 @@ public enum Cell {
     }
     
     public String getSymbol0() {
-        return symbol
+        return symbol;
     }
     
 }
