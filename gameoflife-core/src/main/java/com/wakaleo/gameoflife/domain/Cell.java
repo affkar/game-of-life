@@ -28,8 +28,6 @@ public enum Cell {
     public String getSymbol() {
         return symbol;
     }
-    public String getSymbol0() {
-        return symbol
-    }
+    
     
 }
